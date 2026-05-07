@@ -20,9 +20,6 @@ Database	SQLite (dev) / PostgreSQL (prod)
 
 
 📂 Installation & Setup
-# Clone the project
-git clone https://github.com/nivedithakummetha63/DjangoProject.git
-cd DjangoProject
 
 # Create & activate virtual environment
 python -m venv env
